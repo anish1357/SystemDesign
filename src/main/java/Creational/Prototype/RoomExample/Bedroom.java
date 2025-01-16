@@ -18,7 +18,14 @@ public class Bedroom implements Room{
     }
 
     @Override
-    public String toString() {
+    public String
+
+
+
+
+
+
+    toString() {
         return "Bedroom{" +
                 "height=" + height +
                 ", width=" + width +
